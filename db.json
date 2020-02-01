@@ -1,0 +1,43 @@
+{
+
+ "appup":
+
+{
+
+
+
+"latestVersion":"1.7",
+
+
+
+"latestVersionCode":"7",
+
+
+
+"url":"https://github.com/javiersantos/AppUpdater/releases",
+
+
+
+"releaseNotes":[
+
+
+
+ "- First evolution",
+
+
+
+ "- Second evolution",
+
+
+
+ "- Bug fixes"
+
+
+
+ ]
+
+
+
+}
+
+}
